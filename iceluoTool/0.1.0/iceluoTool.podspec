@@ -40,6 +40,6 @@ good good good good good good good good good good
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'AFNetworking', '~> 2.3'
-  # s.dependency 'Masonry'
+   s.dependency 'Masonry','~> 1.0.0'
 
 end
