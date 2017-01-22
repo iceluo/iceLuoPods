@@ -43,7 +43,7 @@ good good good good good good good good good good
   # s.dependency 'Masonry'
 
     spec.subspec 'Masonry' do |hehe|
-    hehe = 'Pods/Masonry/**/*.{h,m}'
+    hehe.sdkit.source_files = 'Pods/Masonry/**/*.{h,m}'
 #    sdkit.resources    = 'SDKit/**/Assets/*.png'
     end
 
