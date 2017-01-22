@@ -42,8 +42,8 @@ good good good good good good good good good good
   # s.dependency 'AFNetworking', '~> 2.3'
   # s.dependency 'Masonry'
 
-    spec.subspec 'Masonry' do |Masonry|
-    sdkit.source_files = 'Pods/Masonry/**/*.{h,m}'
+    spec.subspec 'Masonry' do |hehe|
+    hehe = 'Pods/Masonry/**/*.{h,m}'
 #    sdkit.resources    = 'SDKit/**/Assets/*.png'
     end
 
